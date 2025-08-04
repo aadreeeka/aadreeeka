@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aadrika Barnwal</h1>
-<h3 align="center">I blend design and code to craft web experiences that are clear, creative, and deeply detailed.</h3>
+<h1 align="center">Hi, I'm Aadrika Barnwal</h1>
+<h3 align="center">I blend design and code to craft web experiences that are innovative and deeply detailed.</h3>
 
-- 👨‍💻 All of my projects are available at [https://aadri-kode.vercel.app/](https://aadri-kode.vercel.app/)
+- Visit my personal Portfolio at: [https://aadri-kode.vercel.app/](https://aadri-kode.vercel.app/)
 
-- 📫 How to reach me **aadri.barnwal@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- How to reach me: **aadri.barnwal@gmail.com**
 <p align="left">
 </p>
 
